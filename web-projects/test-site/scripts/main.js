@@ -33,7 +33,7 @@ function setUserName() {
     myHeading.textContent = 'Mozilla is cool, ' + myName;
     }
 }
-//doubt what differences makes the if else block??
+
 /*
 if(!localStorage.getItem('name')) {
     setUserName();
